@@ -1,0 +1,98 @@
+Objectives
+* What are the defining features of science?
+* What are the features of pseudoscience
+* What are theories What are the componenets of theories?
+Knowing?
+* How do you know what you know?
+  * Observation
+  * Teachings
+  * Intuition
+  * Deduction
+  * Reasoning
+  * Experience
+  * Authority
+Science as Knowing
+* Determinism - Cause & Effect
+* Discoverability
+Also ways to view science
+* Logical Positivism - Only way to know things is through testing. We should be disinterested observers of nature. More objective.
+* Humanistic - Understand the perspective of the topic/individual studying. A bit more subjective.
+Goals of Science
+* Description
+  * Defining the problem
+  * Differentiated between closely related phenomena
+  * Recording or measurement
+  * Describing relationships between phenomena
+* Understanding
+  * Why does something happen?
+  * How can you prove it?
+    * Cause & Effect
+    * Time precedence of the cause
+    * No alternative explanations
+* Prediction
+  * If you want to prove understanding, you have to be able to make predictions.
+  * If your not predicting, then your just observing and that's not science
+  * Two forms of predictions:
+    * Forecasting
+    * Hypotheses
+* Control
+  * Application
+  * The use of knowledge to influence phenomena
+  * This goal of science is why we will talk about ethics in the course
+Values of Scientists
+* Empiricism
+* Skepticism
+* Tentativeness
+* Publicness
+Sir Francis Galton
+* Did multiple studies
+  * Effectiveness of prayer
+  * Deafness
+  * Counted yawns in audience to see how good a play was
+* Complete skeptic & empiricist
+Pseudoscience
+* Is a term applied to any field or inquiry that appears to use scientific methods and tries hard to give that impression, but its actually based on inadequate, unscientific methods and makes claims that are generally false
+* Associates with True Science
+  * Sounds "sciency"
+* Relies on anecdotal evidence
+* Sidesteps proof
+* Overly simplistic concept
+* Example: Phrenology. Shape of your skull determines your personality
+
+!! Missing ~10 minutes of notes. Thought it ended 30 minutes before it actually did. FFFFFFFFFFFFFFFFFFFFFFFFFFFF—
+
+Theories
+* Assumptions
+  * Beliefs taken as a given that are not usually subject to empirical testing.
+  * 3 Types:
+    * General Scientific Assumptions
+    * Paradigmatic Assumptions
+    * Domain Assumptions
+Hypothetical Constructs
+* Terms that are invented for constructs or variales that cannot be directly observed
+Defining Constructs
+* For other people to understand what you're theory is, you have to define the concepts.
+* Narrative definition: Explaination the meaning of the construct in words
+* Operational definition: concerte representations of the hypothetical construct. THese are often the things that are measured in research
+Characteristics of Theories
+* Specification - How specific your theory is
+* Scope - How much does your theory explain
+Purpose of Theories
+* Organizing knowledge
+* Extending knowledge
+* Guiding action
+Evaluating a Good Theory
+* Shaw & Costanzo (1982)
+  * Logical Consistency
+  * Falsifiability
+  * Agreement with known data
+  * Clarity
+  * Parsimony
+  * Consistency with related theories
+Why so much on this?
+* Science + Theory = Research
+Research
+* In this class, I will use it in 2 ways:
+  * Emipericial Studies - the process of collecting data by observing behavios
+  * The process of reviewing previous work
+
