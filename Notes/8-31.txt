@@ -1,0 +1,72 @@
+Types of Research, The Research Process & Hypothesis Testing
+
+Purposes of Research
+* Basic
+* Applied
+* Evaluation
+* Action
+Basic Research
+* Generate knowledge for the sake of knowledge
+* Most always grounded in established theory
+Applied Research
+* Aimed at problem solving in "real-world" scenarios
+* Results can have immediate impact
+Evaluation Research
+* Addresses the question of whether intervention research works
+Action Research
+* Dynamic research process that involves theory, application and evaluation.
+Types of research in behavioral science
+* Quantitative
+  * Variable: Something that takes on differenet values or categories
+    * Categorical
+    * Quantitative
+  * Constant: Something that does not change, or vary
+* Qualitative
+Types of Variables
+* Independent Variable
+  What you change
+* Dependent Variable
+  Changes as a result of what you're doing
+* Mediating Variable
+  Mediates the independent variable and dependent variable
+* Moderating Variable
+  Don't directly affect the relationship, but affect it none the less
+Quantitative—Experimental Approach
+* Review — What are the three criteria for establishing cause & effect?
+  * We must think there is cause & effect
+  * Cause must happen before effect
+  * Ruled out all other possible causes
+* Experiment is the only thing that we have that we can use to determine cause & effect
+* However, it's in an unnatural setting
+Case Study
+* An in-depth examination of a single phenomenon, for descriptive or hypothesis testing reasons.
+* Usually happens with strange situations that are interesting but not readily encountered in the world.
+Quanttitaive - Nonexperimental
+* Correlational Approach
+* A.K.A. The Passive Research Approach
+* Problems
+  * Reverse Causation
+  * Reciprocal Relationships
+  * Third-variable Problem
+
+Settings of Research
+           | Experimental            | Case Study               | Correlational
+-----------+-------------------------+--------------------------+-------------------------
+Laboratory | Traditional Experiement | Single Case Study        | Use of hidden observers
+-----------+-------------------------+--------------------------+-------------------------
+Field      | Field Experiment        | Unconstrained Case Study | Questionnaire Responses
+
+Time Perspectives on Research
+* Most normal research projects will last around 30-90 minutes
+* This is fine…it gives you a snapshot so to speak of a person at one moment in time.
+Types of Developmental Research
+* Cross-sectional - Test two different groups at once. Take a cross section of the group at a certain point.
+* Longitudinal - Measure one individual at multiple points in time.
+* These both have issues. The best:
+* Cohort-Sequential - Measure one group at 1940. Measure group again at 1960, and add a new group. Measure both groups at 1980 then add another group.
+Qualitative
+* Characteristics
+  * Interpetive
+  * Multimethod
+  * Natural Settings
+
