@@ -1,0 +1,65 @@
+Deception
+* Two Forms:
+  * Active Deception - You lie
+  * Passive Deceoption - You just don't tell them the truth
+Ethics & Deception
+* Deception is lying. Lying is unethical/unacceptable
+* If you are deceiving participants then how can they really give informed consent?
+* May cause participants stress or anxiety for feeling foolish because they were tricked
+Is Deception Really Bad?
+* On average, college students do not think so…
+* But, you need to address this question on a case-by-case basis
+What can you do?
+* Use naturally occuring behaviors in a natural occurring setting
+* Role playing? (A.K.A. Simulation research
+* Consent to Deception?
+General Recommendations…
+* It's okay to use deception. But, you should ask yourself some questions
+  * Is it necessary?
+  * How much do I need to deceive the participant?
+  * What kind of harm is likely if I decieve the participant?
+  * Can I inform them about it after I decieve them?
+  * Do the benefits outweigh the costs?
+Debriefing
+* One way to lessen the harm of deception is to use debriefing
+* Occurs immediately at the end of the experiment
+Components of a debriefing
+* Educational
+* Dehoaxing
+* Desensitization
+* Note: When participants have been deceived you have to explicitly asked them if they are okay with you using their data
+Ethical Treatments of Animals
+* YES
+
+
+Reliability & Validity
+Recall…
+* What is a hypothetical construct?
+  * A term for something that isn't directly observable
+  * It must be defined as the operational construct or manifest variable
+Reliability
+* A measure of degree of consistency
+Observed Data
+* True Score
+* Measurement error
+Measurement Error
+* It's what we measured but we didn't really want to
+* Two kinds
+  * Random - Various things that can effect the measurement
+  * Systematic - Caused by actual study
+Unreliable data is rather useless, since no meaning can be derived from the data.
+Forms of Reliability
+* Test-Retest Reliability - You can test again and get similar results
+* Alternate Forms Reliability - Alternate forms of the test yeild similar results
+* Inter-rater Reliability - Different raters all rate similarly
+* Split-half Reliability - Internal consistency
+Which form to choose?
+* It depends
+  * On the construct your measuring
+  * On the measurement methodology
+  * One the length of timebetween measurements, if any
+Scneitifcally, what's good reliability?
+* Correlations go from -1 to +1
+* Test-Retest: .5 (given a 3 month between time)
+* Split-Half: .7
+* Inter-Rater: .7
