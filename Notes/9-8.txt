@@ -1,0 +1,21 @@
+APA 6th Edition Notes
+
+1. Single Author
+  Kruschke (2006) proposed a Beysian model of attention in learning.
+          (/in press/)
+  Kruschke (2003, 2006) proposed…
+  Kruschke (2006/a/, 2006/b/) proposed…
+  Beysian models of learning support this hypothesis (Krushke, 2006)
+                                                     (Krushke, 2006; Krushke, 2009)
+2. Two Authors
+  Rescorla and Wagner's (1972) model of learning does not predict highlighting
+  Other prevalent models of learning also fail to capture the effect (Rescorla & Wagner, 1972; Van Hamme & Wasserman, 1994)
+
+3. More than 2, but less than 6
+  Kruschke, Keppenman, and Hetrick (2005)
+  Eye gaze evidence supports this conclusion (Kruschke, Kappenman, & Hetrick 2005)
+  Kruschke et al. (2005)…
+  (Kruschke et al., 2005)
+
+4. 6+
+  Osaki et al. (2007)
