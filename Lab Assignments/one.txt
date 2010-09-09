@@ -1,0 +1,10 @@
+General Research Ideas
+
+Simulate evolution with some basic rules and pieces to create watches
+IV: Rules given to the simulation
+DV: # of generations before a working watch evolves
+
+Use machine learning, genetic programing to be specific, to build a spam filtering engine to determine it's accuracy vs the standard Bayesian filters used now.
+IV: Rules given to the algorithm and the amount of email that is first used to train it
+DV: Accuracy
+
