@@ -1,0 +1,56 @@
+Important Aspects of Validity
+* Validity is inferred, not measured
+  With reliability, you measure. However, with validity you don't
+* Validity depends on many different types of evidence
+  * Content
+  * Criteria
+  * Construct
+* Validity is expressed by degree
+  Nothing is complete invalid or valid
+* Validity is specific to a particular use
+  Only really measures a single construct
+* Validity refers to inferences drawn, not the measure itself
+* Validity is a unitary construct
+  For a long time validity was split into 3 (content, criteria, construct). Now it's seen as a single thing with 3 parts
+ Types of Categories of Validity
+ * Content-related Validity
+  * Adequate Measurement
+    Has to get at what we want it to get at
+    * Relevant
+    * Representative
+* Face Validity
+  * Assesses whether the measurement items appear to measure what they are suppposed to measure.
+    e.g., Really badly worded questions.
+  * Do the assessment items look valid?
+* Criterion-Related Validity
+  DV-related validity. See if our measure of whatever construct relates to other measures of other constructs related to ours
+  e.g., SAT test and GPA. Does the SAT predict GPA of freshman year. If they're related, then we have some Criterion-related validity
+  * Types of Testing
+    * Concurrent
+      Take both tests, and then see how they both correlate with GPA
+    * Predictive
+      Have a theory that Fear of Failure/Achievement Motivation leads to Executive Success. Measurement would be average time between promotions.  So with a survey used to determine FoF/Ac motivation you predict average time between promotions
+  * Types of Criterion
+* Construct Validity
+  The degree to which your manifest variable measures your hypothetical construct
+  How to get to it
+    * Formulating hypotheses about the links between the operational measure and the hypothetical construct
+    * Conduct a study to determine the empirical relationship between your measure and other measures of other related constructs
+    * Interpret the results in terms of construct-related validity
+    * Kinds of Construct Validity
+      * Convergent Validity
+      * Discriminant Validity
+        * Method Variables
+        * Substantive Variables
+    * Manifest Variable
+* Differential Validity
+  * When a measure is more valid for one group than the other.
+* The relationship between Reliability and Validity
+  * For a measure to be valid, it has to be reliable
+  * However, reliability is not sufficient to claim validity.
+  A scale. If the scale is always 2 lb heavier, then it's reliable, however it's not valid.
+
+Threats to Internal Validity
+* The extent to which one can be confident that the results are reported support the casual hypothesis being tested
+* It is the basic minimum without which any experiment is uninterpretable
+* Are variables that appear to be causally related, REALLY causally related, or is this relationship spurious
