@@ -1,0 +1,11 @@
+Alternative explainations: Confounds & Artifacts
+* Artifacts
+* Confound - When you can't tell if the independent variable actually caused the change
+Types of Confounds
+* Natural Confounds - Things that naturally go together.
+* Treatment Confounds - Things we group together.
+* Measurement Counfounds - Certain measurement techniques may measure more than just what you want
+Time related threats to internal validity
+* History
+* Maturation
+* Statistical Regression
