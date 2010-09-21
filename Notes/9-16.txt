@@ -1,0 +1,51 @@
+External Validity
+* The extent to which the findings from any one study apply in all other settings at other times, with different participants, when different procedures are used
+* Ecological Validity: The degree to which the conditions under which research is carried out, mimic the conditions found in a natural setting to which they are to be applied
+ * Generalizability: The etent to which the results of a study pertain equally to more than one setting, population, or subpopulation
+ Setting - Generalizability
+ * Physical Setting
+  * Subtle variations in the setting that a study takes place may affect the results.
+Setting - Ecological Validity
+* The laboratory is a much different setting than natural environments
+* The most ecologically valid setting is the natural environment
+* But when that's not available, the research should try and use as similar a setting as possible
+Research Procedures
+* Operational Definitions
+* LEvels of the Independent Variable
+Research Procedures - Ecological Validity
+* Do the kinds of tasks we make students do accurately reflect the kinds of tasks people have to do in the real world?
+* What about consequences for poor performance?
+* Artificial Dependent Measures
+The White Rat
+* In the 1950s, Frank Beach became alarmed that all research was using white rats
+* Captured wild rats and experimented on them
+* Now, the college student is the new white rat
+* Convience sampling
+Sears (1986)
+* Thesis: Using students may create artifical findings, especially in social psychology
+* Why: Developmental research shows that attitudes are easily changes in college aged students
+* Problem: Conclusions that people's attitudes can be changed, might be an artifact of using college students
+Even The Rat Was White
+* Not only have we used college students, but because of that we have under-represented other groups
+College Students are WEIRD
+* W - Western
+* E - Educated
+* I - Industrialized
+* R - Rich
+* D - Democratic
+Fundamental Attribution Bias
+* Our tendency to favor an explanation based on the dispositional traits of someone rather than situational ones.
+* However, it is not human...
+Time Factors
+* Time Sampling
+  * Seasonal Variations
+  * Daily Variations
+* Changes Over Time
+  * Beliefs and Behaviors change over time
+  * Intra-Cultural Change
+The Functional Component
+* The extent to which psychological processes that affect behavior in the research situation are similar to those that affect behavior in the natural situation
+* Example: Jury decision making processes
+The Conceptual Component
+* The extent to which problems studied int he laboratory are problems faced in the real world
+
