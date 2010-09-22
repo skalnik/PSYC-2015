@@ -1,0 +1,44 @@
+Attachment Study
+* Is it externally valid?
+* Would these findings generalize to other monkeys, not raised in a laboratory?
+Research Goals that Don't Stress External Validity
+* We want to know whether something can happen?
+* Prediction from the real world to the lab
+* Validity may be increased if we can show that something occurs in a unusual lab circumstance
+* Study things without real-world analogies
+Assess Exernal Validity - Generalizability
+* Can't be done with one study. It needs to be established:
+  * Across Time
+  * Across Cultures
+  * Across Procedures & Settings
+* Look for moderating variables
+External Validity
+* Some suggest that it's just another type of experiment one needs to perform.
+* Is conducting a study in a natural setting any guarantee that it is generalizable?
+My Suggestion…
+* You can be on either side of the debate
+* It's important that when you discuss your study, that you do not over-generalize your results.
+Measurement Theory
+Scales of Measurement
+* Nominal
+  * Used to classify events into one group or another
+  * Example: Changing scores on a multiple choice test
+    * Wrong to Wrong
+    * Right to Wrong
+    * Wrong to Right
+* Ordinal
+  * Rankings of data
+  * We don't know the difference between the rankings
+* Interval Scale
+  * Data are rank ordered with the difference between positions having meaning
+  * IQ Test
+* Ratio Scales
+  * It's like interval scales byt now the zero means something. -0 = the true absence of something
+Descriptive Statistics
+* Statistics used to summaryize the data collected from a sample of participants
+* Two Important Ones:
+  * Measures of Central Tendency
+    * Mean
+    * Median - The response that divides a distribution in half
+    * Mode - Most frequent response in a set
+  * Measures of Validity
