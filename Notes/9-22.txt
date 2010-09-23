@@ -1,0 +1,32 @@
+Reference List
+
+Title of page is References
+Order Alphabetically
+
+
+Kruschke, J. K. (2003). Title of the paper.
+  /Title of Journal/, Vol#, Page#s.
+
+
+Kruschke, J. K., Kappenman, E. M., & Hetrick, H.B. (2005)
+  Title of paper. /Title of Journal/, 1, 1-10.
+
+7+ Authors
+Kruschke, J. K. et al. (2003)
+
+Title of: The paper.
+
+
+Summarizing Articles
+
+Who they are
+What they did
+What they found
+What the implications are
+
+Methods
+
+Participants
+Deskgn & Stimuli
+Procedure
+Tables

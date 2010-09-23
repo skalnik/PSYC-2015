@@ -41,4 +41,6 @@ Descriptive Statistics
     * Mean
     * Median - The response that divides a distribution in half
     * Mode - Most frequent response in a set
-  * Measures of Validity
+  * Measures of Variance
+    * Std Deviation
+    * Range
