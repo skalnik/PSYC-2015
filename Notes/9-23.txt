@@ -1,0 +1,35 @@
+Interential Statistics
+* Statistics used to draw conclusions about your data and how they can be applied to other groups
+Definitions
+* Population: All members of some predefined groups
+* Sample: Some subset of the population
+* Statistic: a numerical index (e.g., mean) based on sample data
+* Parameter: a numerical index based on population data
+Inferential Statistics
+* Sometimes we can study all members of a population, especially when they are a small group
+* Other times, we can't and so we need to sample from the population to whom we wish to generalize
+* Basically, alllows you to say how well your data apply to the larger population of which you want to generalize to
+* It relies on sampling distrbutions for making probabilitic statements about the populations based on sample data
+Remember Hypothesis testing?
+* What is the Null Hypothesis?
+  * No relationship
+* What is the Alternative Hypothesis?
+  * There is a relationship
+* What are the two possible outcomes we can have?
+  * We can reject null hypothesis
+  * Fail to reject
+Hypothesis Testing as Distributions
+* The Null Hypothesis suggests that our two sets of data come from the same population distribution
+* The Alternative Distribution suggests that they come from different populations
+* If they come from different populations we should be able to see the difference
+Alpha Level
+* The Alpha level: The probability of obtaining your particular result if the null hypothesis is really true
+* If you reject the null at Alpha = .05, then it means you believe the probability is very low (5 out of 100) that your research outcome is due to chance.
+Why .05?
+* In reality, it is an arbitrary number that developed over the years
+* But it still makes sense
+* Remember the Normal Distrbution
+One-Tailed vs Two-Tailed tests
+* Sometimes we are just interested in one groul being different from another
+* Other times we are interested in one group being not only different, but better or worse than another group
+
