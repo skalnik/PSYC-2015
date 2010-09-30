@@ -1,0 +1,32 @@
+Experimental Research
+* Two important variables
+  * IV
+  * DV
+Between - Subject Design
+* Study design in which participants receive only one of the conditions in the experiment
+* Example 1: Spaced vs Massed practice
+  * We manipulate the variables
+* Example 2: Introverts vs Extroverts
+  * The variable is already manipulated. Introversion-Extroversion is called a subject variable.
+Subject Variables
+* What are the three criteria for establishing causality
+  * Time precedence
+  * Control for any other possibilities
+  * Co-varation
+* Where do subject variables fall short when it comes to establishing causality?
+  * You can't control for any other possibilities
+When to Use Between-Subject designs
+* When participating in one condition would obviously affect performance in the other condition
+* Examples:
+  * Control group research
+  * When deception is used
+  * When the subject knows the purpose of the study
+Disadvantages of using between-subjects design
+* Need more subjects
+* More energy, time, money
+* Must attain equivalent groups
+Random Assignment vs Random Selection
+* Random Selection: Randomly select participants for a sample from the population
+* Random Assignment: Everyone volunteering for the study has an equal chance of being place in any of the groups being formed.
+Random Assignment
+* Goal: To take individual difference factors that could influence the study and spread them out evenly throughout the different groups
