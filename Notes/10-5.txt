@@ -1,0 +1,49 @@
+Latin Square
+* With a perfectly balanced Latin Square:
+  1. Every condition of the study occurs equally often in every sequential position
+  2. Every condition precedes and follows every other condition exactly once
+* Important:
+  * If you use a Latin Square design, you have to use a N that is a multiple of the number of conditions you have
+Reverse Counterbalancing
+* The experimenter presents the conditions in one order and then presents them again in the reverse order
+Block Randomization
+* Similar to block randomization in between-subjects design
+* Example, if we wanted 5 trials of each N-back size we would make 5 random sequences
+Controlling Order Effects
+* Counterbalancing assumes that the effects are going to be linear, but this isn't always the case
+Carryover Effects
+* Another way to do it is to use a washout period
+* This is a period of time in which the effect of the independent variable can dissipate
+* Can be minutes, hours, or days
+Order Effects
+* Our discussion assumes that we know when we have order effects
+* In reality, we can make educated guesses about whether we will have them.
+* The only way to really know is to use a factorial design.
+* Not always bad
+* Imagine you were interested in the carryover effects of a drug on a particular behavior.
+* The effect of motivation of success followed by failure, and vice versa.
+Characteristics of a Good Manipulation
+* Construct Validity
+  * What you measure is what you mean to measure
+* Reliability
+  * If you apply the manipulation you should see the same results each time
+* Strength
+  * The conditions of the independent variable are different enough to actually create different behaviors in the group.
+  * Be sure not to make them too extreme as they may become unethical or not ecologically valid
+* Salience
+  * A salient research manipulation stands out from all the other stuff going on in the study.
+  * If it's not salient, participants will not notice it and also are unlikely to be affected by it
+Manipulation Check
+* Interview participants to see if participants experienced the manipulation as intended
+* You can also administer measures of the construct being measured.
+* Done either:
+  * In a pilot study
+  * Post-experiment
+When Manipulation Checks Fail
+* It could mean the manipulation is not valid
+* It could also mean it was not strong enough
+Using Multiple Stimuli
+* Stimulus: a person, object, or event that represents the operational definition of a condition of the independent variable.
+* When the stimulus reflects a hypothetical construct, it can be represented by any number of stimuli
+* So when you only use one set of stimuli, you confound the stimuli with the hypothetical construct
+
