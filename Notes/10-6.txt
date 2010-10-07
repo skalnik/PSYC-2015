@@ -1,0 +1,21 @@
+APA Style Reference List
+
+Abrams, J.J. (2010). Lost: The final season. /ABC/, 6, 1-17
+Lastname, I. J. (Year). Title. /Journal/, Vol#, Startpage-endpage.
+
+Roder, A.B, Rostle, C.D., & Neville, E.F. (200). Title.
+
+First Author -> 6th...Last Author
+
+
+
+1. What is the general idea?
+2. A little more specific.
+3. Why? (Theory) <- General
+4. What are the arguments
+5. What do these arguements have to say about my research?
+6. Curran Study
+  - What you're doing
+  - Why?
+  - Hypothesis
+    * Rationale
