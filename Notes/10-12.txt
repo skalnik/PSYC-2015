@@ -1,0 +1,11 @@
+Factorial Studies
+
+Outcomes
+* Interaction Effect: Occurs when two or more independent variables combine to produce an effect over and above their main effects
+
+PxE Designs
+* P = Person; Subject Variable
+  * This is essentially a correlational analysis, and thus we cannot determine causation with correlation
+* E = Environment; Manipulated Variable
+* When you get a main effect of "E", researchers like this because it suggests the power of the environment is strong enough to produce the same behavior in different groups of people.
+* Interactions in PxE are more interesting
