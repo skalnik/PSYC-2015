@@ -1,0 +1,68 @@
+Naturalistic Research
+* According to the book, field research is any research done in the field (whoa!)
+The problem with Field Research
+* What are the disadvantages of doing field research?
+  * Lack of internal validity
+  * Hard to control for extraneous variances
+  * Ethical issues of data gathering
+  * Limited control over the IV
+  * Limited choice of operational definitions for the DV
+  * Experimenter Expectancies/Instrumentation Threats
+  * Cannont screen participants for particular characteristics
+  * Sometimes difficult to establish random assignment, without disrupting the naturalism
+The Upside of Field Experiments
+* High on ecological validity
+* High on external validity
+* Less likely to have reactivity, evaluation, apprehension, etc.
+Field Experiements
+* Study peoeple's natural behaviors in response to a manipulated IV in a natural setting.
+* Like a lab experiment, the goal is to draw conclusions about the manipulated variable on behavior and/or the dependent measure
+Designing a Field Study
+* 3 considerations
+  1. Choosing a Research Setting
+    * According to Bochner (1979) research settings vary on a continuum of publicness
+    * What should you pick?
+      * Pick the one that makes the most sense for the construct you are attempting to study.
+      * Also, it may not be a bad idea to try out several different settings to see if your results are generalizable.
+    * Need to pick a location where you can manipulate the IV
+    * The manipulation must appear to be reasonable
+    * Its best to get permission to use these places to conduct experiments
+  2. Implementing the Independent Variable
+    * Two basic Approaches
+      * Street Theater: To stage an event that will be witnessed by everyone in the surrounding area
+      * Accosting: The researcher selects a target who receives a single level of IV
+        * Example: A Pizza Delivery Guy explains why the pizza was early/late
+  3. Problems
+    * Construct Validity is very difficult to establish. In other words, its hard to know if the DV in this context is accurately measuring the construct we're interested in.
+    * Control over extraneous variables: The most common problems will be people selecting themselves into being a field study
+    * Vulnerability to Outside Interference. If you're at Piedmont park looking at people playing sports and it rains.
+Natural Experiments
+Examples
+* Brain Injury Patients
+* Memories of events that have happened
+* Gathering people's responses to a popular TV show
+Natural Experiments do not:
+* Randomly assign people to level of IV
+* Manipulate the IV
+* Control extraneous variance
+Quasi-Experiments
+* These studies manipulate an IV in a natural setting. However, the IV relates to pre-existing groups of people as the experimental & control group.
+* It's called quasi because you do manipulate an IV as if you were conducting a true experiment.
+Two Forms of Quasi Experiments
+* Two forms
+  * Non equivalent Groups
+  * Interrupted time series design
+Nonequaivalent Groups
+* The purpose of the experiment is to see how some treatment effects one group but not the other.
+* Because we are not using random assignments, the groups may differ in more than 1 way.
+Interrupted Time Series Design
+* Basic single case approach in which a baseline period is followed by a treatment that "interrupts" the baseline, followed by a period of post-treatment observations
+* The advantage is that researchers can evaluate trend
+* Can also rule out alternative explainations of pre-test post-test change
+Varations
+Control Series Design
+* It is an interrupted time series design with the addition of one or more control cases
+Interrupted Time Series Design with Switching Replications
+* Two groups undergo the same implementation however each group receives the treatment at a different time & location
+Interupted Time Series Design with Multiple DVs
+* The idea is that only some of the DVs are expected to change
