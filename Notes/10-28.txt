@@ -1,0 +1,80 @@
+The Problems with Small N Designs
+* Lack of generalizability
+  * Can we insure generalizability in correlation research?
+* Too uncontrolled/too many threates to internal validity
+  * There are ways to establish validity... see next slides
+* Takes too long to conduct
+  * Sometimes in depth, longitudinal research is needed to really understand something.
+Establishing Validity in Small N Designs
+* Kratchowill, Mott, & Dodson (1984) criteria for establishing validating small N studies
+Measurement Criteria
+* Use objective data instead of subjective data
+* Use more than one dependent variable
+* Use multiple sources of information
+* Frequent Assessment
+Replication Criteria
+* The more a research finding is replicated the more people can believe in it. It increases generalizability and identifies limits of theories
+* Yin (1994) has a model in which several case studies are done and the results are compared across them to see if they all converge.
+Control Criteria
+* There are many threats to internal validity in case studies: History, Maturation, Regression towards the mean.
+* Yin (1994)
+  * Test Cases: Like an experiment, when the IV is present and it has an effect on the DV.
+  * Control Case: What happens to the D in the absence of the IV.
+* Sometimes, especially in clinical settings, this is not always the best way to go, as you may end up withholding treatment
+Impact Criteria
+* According to Kazdin (1997), the larger the magnitude of a treatment on a DV (i.e., effect size), the more certain the researcher can be that history, maturation, and regression are not playing a role.
+* Assessing Impact (Mostly Clinical)
+  * Chronicity
+    * Can help rule out maturation
+  * Large Magnitude
+    * Can help rule out regression to the mean
+  * Immediate Impact
+    * History will be less a factor if the impact of the treatment can be seen immediately following its implementation
+  * Follow Ups
+    * If the effect lasts at follow ups we somewhat confident that there is no placebo and regression effects
+Treatment Criteria
+* Having control over when the treatment occurs
+* Standardized they occur the same way for every person
+Single Case Studies
+* Terminology:
+  * A: Usually refers to the baseline condition
+    * Thing of this like a control session in a within-Ss design
+  * B: The treatment conditions — The IV
+  * C: A second treatment condition — A Second IV
+A — B Designs
+* Simplest design
+* Not that often used because:
+  * It is more suscpectial to threats of internal validity such as regreession to the mean, history, and maturation
+A — B — A Design
+* Logic: The IV should bring about a change in the DV. When it is removed, the DV should return to baseline. This is called a reversal
+* Sometimes also called a withdraw design
+Multiple Baseline Designs
+* In these designs, researchers create or establish multiple dependent measures.
+* Then treatments are established at different times
+* We can rule out history by showing that changes occur only when the treatment happens
+The Changing Criterion Design
+* It is nice when we can see large changes in the behavior of interest as a function of our treatment
+* Not all treatments work in this way. Somethings change gradually
+* Desensitization therapy — often requires multiple sessions to notice a change in the dependent measure.
+
+Case Studies
+* An in-depth, usually long-term examination of a single instance of a phenomenon.
+* Choosing cases to study
+  * If you can, select a situation in which you might be able to manipulate an IV.
+  * Select cases that you can easily access and will have access to for large chunks of time
+* Data Collection
+  * You only get one shot at it, so be careful
+    * Carefully select the DVs, when data collection will occur, where there are sources of data
+    * Also be ready for changes in the procedures and be able to adapt accordingly.
+  * Search for disconfirming evidence and make sure to report it, if you find any
+* Make sure to keep and establish a chain of evidence
+  * Needed to effectively support your conclusions
+Chain of Evidence
+* Research report should state where the data from each conclusion comes from
+* Reports should include transcripts of interviews, etc.
+* Report should state how each piece of data was collected (e.g., interview)
+* Report should mention what measures or pieces of data were specifically used to answer certain questions.
+Data Analysis for Case Studies...
+* Qualitative data analysis
+  * No Stats
+

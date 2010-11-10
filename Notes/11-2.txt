@@ -1,0 +1,22 @@
+Correlational Research
+
+Two Schools of Psychology
+* Experimental
+  * Hopes to show that some stimulus affects behavior in a predictable way, regardless of individual differences
+  * Manipulates variables and observes outcomes
+  * Looks for general laws that affect all people
+* Correlational
+  * Looks at relationships between naturally occurring variables and individual differences
+  * Observe variables and relate them (no manipulation)
+  * Looks at ways people differ from another
+  * Looks at variance among organisms
+* Cronbach was really concerned that correlational research held second-class status as a method in psychology
+* He promoted the use of both along side each other
+History of the Correlation
+* Sir Francis Galton
+* Cousin Darwin was interested in genetics and physical characteristics
+* Inspired by this, galton was very interested in intelligence and was also concerned with the idea of eugenics
+* As you can guess, this is a question of nature vs nurture, a term coined or inspired by Galton
+* He assumed that intelligence was normally distributed like height
+* Certainly, his research did suggest that intelligence and skills in specific areas (e.g., law, chemistry) did run in families.
+* He also discovered and founded the notion of regression toward the mean
